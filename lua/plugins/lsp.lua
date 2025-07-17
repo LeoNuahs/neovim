@@ -55,9 +55,7 @@ return {
                             --    disableOrganizeImports = true
                             -- },
                             basedpyright = {
-                                analysis = {
-                                    typeCheckingMode = "basic"
-                                }
+                                typeCheckingMode = "basic"
                             }
                         }
                     }
